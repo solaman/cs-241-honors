@@ -6,6 +6,8 @@ git clone https://github.com/solaman/cs-241-honors.git
 
 push the stuff into github
 git add.      ---adds all new files, otherwise: git add thisfile.c
+
 git commit -m "message"
+
 git push
 
